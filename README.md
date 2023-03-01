@@ -1,3 +1,3 @@
 # SkyBot-bot
 discord bot
-This is  a bot created/developed by ItzTahaJxSpin
+This is  a bot created/developed by YumTaha
